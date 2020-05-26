@@ -1,0 +1,272 @@
+  
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# Site Settings
+locale                   : "en-US"
+title                    : "danielrdowns.com"
+title_separator          : "-"
+subtitle                 : "The personal website of Dan Downs"
+name                     : &name "Daniel Downs"
+description              : &description "This is the website of Dan Downs"
+url                      : "https://danielrdowns.github.io/website" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "danielrdowns/website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title.
+twitter_username: DanDownsStartup
+github_username: danielrdowns
+minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: danielrdowns/minimal-mistakes-clone@4.19.2
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-target-blank
+
+# Site Author
+author:
+  name             : "Daniel Downs"
+  avatar           : "assets/images/downs photo cropped.png"
+  bio              : "*insert bio here*"
+  location         : "New York, NY"
+
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DanDownsStartup"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/danielrdowns/"      
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/danielrdowns/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@danielrdowns"
+      
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/danielrdowns"
+      
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+
+# Site Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      email: "https://danielrdowns@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DanDownsStartup"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/danielrdowns/"      
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/danielrdowns/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@danielrdowns"
+
+# Social Sharing
+twitter:
+  username               : &twitter "DanDownsStartup"
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : "/assets/images/bio-photo.jpg" # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+      - "https://twitter.com/DanDownsStartup"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      sidebar:
+        title: ""
+        nav: sidebar-sample
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        title: ""
+        nav: sidebar-sample
+  # _docs
+  - scope:
+      path: "_docs"
+      type: docs
+    values:
+      sidebar:
+        title: ""
+        nav: sidebar-sample
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      sidebar:
+        title: ""
+        nav: sidebar-sample
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      sidebar:
+        title: ""
+        nav: sidebar-sample
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      sidebar:
+        title: ""
+        nav: sidebar-sample
+        
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# More Site Settings
+# breadcrumbs            : false # true, false (default)
+# words_per_minute         : 200
+# comments:
+#  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+#  disqus:
+#    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+#  discourse:
+#    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+#  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+#    appid                :
+#    num_posts            : # 5 (default)
+#    colorscheme          : # "light" (default), "dark"
+#  utterances:
+#    theme                : # "github-light" (default), "github-dark"
+#    issue_term           : # "pathname" (default)
+#  staticman:
+#    branch               : # "master"
+#    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+# reCaptcha:
+#  siteKey                :
+#  secret                 :
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
+# search                   : # true, false (default)
+# search_full_content      : # true, false (default)
+# search_provider          : # lunr (default), algolia, google
+# algolia:
+#  application_id         : # YOUR_APPLICATION_ID
+#  index_name             : # YOUR_INDEX_NAME
+#  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+#  powered_by             : # true (default), false
+# google:
+#   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+#   instant_search         : # false (default), true
+# twitter_username: username
+# github_username: username
+
+# SEO Related
+# google_site_verification :
+# bing_site_verification   :
+# yandex_site_verification :
+# naver_site_verification  :
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
