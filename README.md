@@ -1,6 +1,6 @@
 Hello. 
 
-This is the README for Dan Downs' blog.
+This is the README for Dan Downs' blog - Dark Mode.
 
 This blog uses the Minimal Mistakes theme by Michael Rose. See here: https://github.com/mmistakes/minimal-mistakes
 
@@ -20,15 +20,16 @@ To do List:
 - <s> Create About page and Posts page </s>
 - <s> Remove posts from mmistakes fork </s>
 - <s> Website launch new Post </s>
-- <s>Migrate "About" page content to the front page</s>
-- Add Dark Mode
+- <s> Migrate "About" page content to the front page </s>
+- <s> Add Dark Mode </s>
+- <s> Point page to proper URL </s>
 - Create "Website" page under projects
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
-- Point page to proper URL
+
 - Public launch
 
 v2.0 feature requests
-- Migrate Medium articles from Medium to the website
+- Migrate Medium articles to the website
 - Figure out what should go on About page:
 -- Maybe writings by collection?
 -- Maybe Fun Facts
