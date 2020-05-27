@@ -3,11 +3,11 @@ permalink: /projects/
 title: "Projects"
 
 feature_row1:
-  - image_path: /assets/images/website photo darkmode 2020 05 27a.png
+  - image_path: /assets/images/website photo lightmode 2020 05 27a.png
     alt: "customizable"
     title: "Website"
     excerpt: "<p>The website 'danielrdowns.com' is the personal website of Dan Downs.</p>"
-    url: #"/docs/configuration/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:    
@@ -15,7 +15,7 @@ feature_row2:
     alt: "fully responsive"
     title: "Defilade"
     excerpt: "<p>Defilade makes products for enterprises growing the American defense industrial base.</p>"
-    url: #"/docs/configuration/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row3:
@@ -24,7 +24,7 @@ feature_row3:
     title: "R3 Printing"
     excerpt: "<p>R3 Printing builds industrial automation technology for the 3D-printed, manufactured-on-demand future.
 </p>"
-    url: #"/docs/license/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
