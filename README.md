@@ -1,6 +1,6 @@
 Hello. 
 
-This is the README for Dan Downs' blog - Dark Mode.
+This is the README for Dan Downs' blog - DarkMode.
 
 This blog uses the Minimal Mistakes theme by Michael Rose. See here: https://github.com/mmistakes/minimal-mistakes
 
@@ -23,9 +23,9 @@ To do List:
 - <s> Migrate "About" page content to the front page </s>
 - <s> Add Dark Mode </s>
 - <s> Point page to proper URL </s>
-- Create "Website" page under projects
+- Make new square Defilade logo
+- Create individual project page for each Project topic
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
-
 - Public launch
 
 v2.0 feature requests
