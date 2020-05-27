@@ -12,7 +12,7 @@ Have a question for me?
 My [direct messages on Twitter](https://twitter.com/dandownsstartup) are <b>open</b>. 
 
 Please keep all messages short and succinct.
-
+<div>
 <div class="white-box">
   
 .white-box {
