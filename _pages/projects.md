@@ -7,7 +7,7 @@ feature_row1:
     alt: "customizable"
     title: "Website"
     excerpt: "<p>The website 'danielrdowns.com' is the personal website of Dan Downs.</p>"
-    url: "/about/"
+    url: "/website-explainer/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:    
