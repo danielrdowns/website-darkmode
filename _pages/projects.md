@@ -24,7 +24,7 @@ feature_row3:
     title: "R3 Printing"
     excerpt: "<p>R3 Printing builds industrial automation technology for the 3D-printed, manufactured-on-demand future.
 </p>"
-    url: "/about/"
+    url: "https://r3printing.com/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
