@@ -15,7 +15,7 @@ feature_row2:
     alt: "fully responsive"
     title: "Defilade"
     excerpt: "<p>Defilade makes products for enterprises growing the American defense industrial base.</p>"
-    url: "/about/"
+    url: "https://www.defiladecorp.com/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row3:
