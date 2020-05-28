@@ -5,18 +5,27 @@ classes: wide
 excerpt: "Change log of enhancements and bug fixes made to the theme."
 ---
 
-## [4.19.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.2)
+## 1.0.0
 
 ### Enhancements
 
-- Add support for bilibili videos in [responsive video helper](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#responsive-video-embed). [#2512](https://github.com/mmistakes/minimal-mistakes/pull/2512)
-- Add Myanmar (Burmese) localized UI text strings. [#2500](https://github.com/mmistakes/minimal-mistakes/pull/2500)
-- Improve author links underline on hover. [#2472](https://github.com/mmistakes/minimal-mistakes/pull/2472)
-- Add documentation for applying Front Matter defaults to jekyll-archives pages. [#2466](https://github.com/mmistakes/minimal-mistakes/pull/2466)
-- Add missing Vietnamese translations. [#2459](https://github.com/mmistakes/minimal-mistakes/pull/2459) [#2486](https://github.com/mmistakes/minimal-mistakes/pull/2486)
-- Fix Finnish localized UI text strings. [#2455](https://github.com/mmistakes/minimal-mistakes/pull/2455)
-- Clarify documentation that Lunr only searches documents in collections. [#2450](https://github.com/mmistakes/minimal-mistakes/pull/2450)
-- Add guide on applying Front Matter defaults to jekyll-archives pages [#2466](https://github.com/mmistakes/minimal-mistakes/pull/2466)
+- <b>Public launch</b>, which entails:
+- Figure out how this 'Ruby" thing words
+- Change author title
+- Reorder social media links
+- Add Introduction blurb
+- Add search
+- Figure out how to make pages
+- Create About page and Posts page
+- Remove posts from mmistakes fork
+- Website launch new Post
+- Migrate "About" page content to the front page
+- Add Dark Mode
+- Point page to proper URL
+- Make new square Defilade logo
+- Create individual project page for each Project topic OR hyperink
+- Add "History" page w/ versions, (ex. 1.0 - Site Created)
+
 
 ### Bug Fixes
 
