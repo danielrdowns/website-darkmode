@@ -4,13 +4,12 @@ This is the README for Dan Downs' blog - DarkMode.
 
 This blog uses the Minimal Mistakes theme by Michael Rose. See here: https://github.com/mmistakes/minimal-mistakes
 
-
 Resources: 
 
 https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 
-To do List:
+v 1.0 To do List:
 - <s> Figure out how this 'Ruby" thing words </s>
 - <s> Change author title </s>
 - <s> Reorder social media links </s>
@@ -24,11 +23,11 @@ To do List:
 - <s> Add Dark Mode </s>
 - <s> Point page to proper URL </s>
 - <s> Make new square Defilade logo </s>
-- Create individual project page for each Project topic
-- Add "History" page w/ versions, (ex. 1.0 - Site Created)
-- Public launch
+- <s> Create individual project page for each Project topic OR hyperink </s>
+- <s> Add "History" page w/ versions, (ex. 1.0 - Site Created) </s>
+- <s> Public launch </s>
 
-v2.0 feature requests
+v 1.1 feature requests
 - Migrate Medium articles to the website
 - Figure out what should go on About page:
 -- Maybe writings by collection?
