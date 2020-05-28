@@ -11,7 +11,7 @@ feature_row1:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:    
-  - image_path: /assets/images/Defilade logo 2020 03 17a.png
+  - image_path: /assets/images/Defilade logo square 2020 03 17a.png
     alt: "fully responsive"
     title: "Defilade"
     excerpt: "<p>Defilade makes products for enterprises growing the American defense industrial base.</p>"
