@@ -29,7 +29,7 @@ feature_row3:
     btn_label: "Learn more"  
 ---
 
-The page is a collections of products and projects I've worked on over the years. 
+The page is a collection of products and projects I've worked on. 
 
 {% include feature_row id="feature_row1" type="left" %}
 
