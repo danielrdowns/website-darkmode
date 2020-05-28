@@ -1,33 +1,17 @@
 Hello. 
 
-This is the README for Dan Downs' blog - DarkMode.
+This is the README for Dan Downs' blog - Dark Mode.
 
 This blog uses the Minimal Mistakes theme by Michael Rose. See here: https://github.com/mmistakes/minimal-mistakes
+
 
 Resources: 
 
 https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 
-v 1.0 To do List:
-- <s> Figure out how this 'Ruby" thing words </s>
-- <s> Change author title </s>
-- <s> Reorder social media links </s>
-- <s> Add Introduction blurb </s>
-- <s> Add search </s>
-- <s> Figure out how to make pages </s>
-- <s> Create About page and Posts page </s>
-- <s> Remove posts from mmistakes fork </s>
-- <s> Website launch new Post </s>
-- <s> Migrate "About" page content to the front page </s>
-- <s> Add Dark Mode </s>
-- <s> Point page to proper URL </s>
-- <s> Make new square Defilade logo </s>
-- <s> Create individual project page for each Project topic OR hyperink </s>
-- <s> Add "History" page w/ versions, (ex. 1.0 - Site Created) </s>
-- <s> Public launch </s>
-
-v 1.1 feature requests
+v 1.1 To Do list/Feature Reqs
+- Add mini icon for website browswer
 - Migrate Medium articles to the website
 - Figure out what should go on About page:
 -- Maybe writings by collection?
