@@ -5,6 +5,8 @@ classes: wide
 excerpt: "Change log of enhancements and bug fixes made to the theme."
 ---
 
+This page covers the update history of [this website](https://danielrdowns.github.io/website-darkmode/).
+
 ## 1.0.0
 
 ### Enhancements
