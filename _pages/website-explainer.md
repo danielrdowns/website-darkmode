@@ -11,4 +11,6 @@ Source code can be found at the following repositories:
 
 [Light Mode](https://github.com/danielrdowns/website)
 
+A history of site updates can be found [here](/website-history/).
+
 If you find any bugs, please [let me know](/contact/). 
