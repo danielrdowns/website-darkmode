@@ -12,7 +12,7 @@ This page covers the update history of [this website](https://danielrdowns.githu
 ### Enhancements
 
 - <b>Public launch</b>, which entails:
-- Figure out how this 'Ruby" thing words
+- Figure out how this 'Ruby' thing words
 - Change author title
 - Reorder social media links
 - Add Introduction blurb
