@@ -72,7 +72,7 @@ plugins:
 author:
   name             : "Daniel Downs"
   avatar           : "assets/images/downs photo cropped.png"
-  bio              : "*Focused on building products that solve problems for people.*"
+  bio              : "*Building products that solve problems for people.*"
   location         : "New York, NY"
 
   links:
