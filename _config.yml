@@ -22,15 +22,17 @@ title_separator          : "-"
 subtitle                 : "The personal website of Dan Downs"
 name                     : &name "Daniel Downs"
 description              : &description "This is the website of Dan Downs"
-url                      : "https://danielrdowns.github.io/website" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://danielrdowns.github.io/website-darkmode" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "danielrdowns/website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "danielrdowns/website-darkmode" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+favicon                  : "assets/images/downs photo cropped.png"
+shortcut_icon            : "assets/images/downs photo cropped.png"
+teaser                   : "assets/images/downs photo cropped.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title.
 twitter_username: DanDownsStartup
 github_username: danielrdowns
-minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: dark # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -45,8 +47,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-
-<link rel="shortcut icon" type="image/png" href="/assets/images/downs photo cropped.png">
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
