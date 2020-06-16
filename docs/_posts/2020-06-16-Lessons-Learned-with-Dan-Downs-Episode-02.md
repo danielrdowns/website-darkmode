@@ -28,7 +28,7 @@ tags:
 
 - It was suggested to me to build a better desk streaming setup. Two resources I was directed to: Garry Tan's streaming setup guide and Lowko's streaming setup.<sup><a href="#fn1" id="ref1">1</a></sup> <sup><a href="#fn2" id="ref2">2</a></sup> Presently I'm operating on a limited budget + logistical limitations of COVID-19. Going to proceed with clever hacks and upgrade where necessary.
 
-- It was suggested I check out Garry Tan's tweet on the importance of Youtube thumbnail.<sup><a href="#fn3" id="ref3">3</a></sup> This was utilized. I think this is "not there yet" and will be improving. On my To Do list for this: get a thicker red circle, figure out if better thumbnail text is appropriate.
+- It was suggested I check out Garry Tan's tweet on the importance of Youtube thumbnails.<sup><a href="#fn3" id="ref3">3</a></sup> This was utilized. I think this is "not there yet" and will be improving. On my To Do list for this: get a thicker red circle, figure out if better thumbnail text is appropriate.
 
 
 <b>Observations:</b>
