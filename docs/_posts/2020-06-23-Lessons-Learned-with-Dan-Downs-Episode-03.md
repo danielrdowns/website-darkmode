@@ -22,7 +22,7 @@ tags:
 
 <b>Episode summary:</b>
 
-- DD does a review of Swift Playgrounds, Apple's eductaion-focused development environment for learning the Swift Language. <sup><a href="#fn1" id="ref1">1</a></sup>
+- DD does a review of Swift Playgrounds, Apple's education-focused development environment for learning the Swift Language. <sup><a href="#fn1" id="ref1">1</a></sup>
 
 <b>Feedback from Episode #02:</b>
 
