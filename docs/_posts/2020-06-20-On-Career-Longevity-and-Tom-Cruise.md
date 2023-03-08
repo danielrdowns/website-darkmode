@@ -10,7 +10,7 @@ tags:
   - blog
   - building
 ---
-The [noted European politics commentator Niccolo Soldo](https://amgreatness.com/author/niccolo-soldo/) recently [shared a real gem of a forum post](https://twitter.com/espressosoldo/status/1262182978656129024) - pictured below - that provides a spirited defense on the unassailability of Tom Cruise’s status as this era's preeminent Hollywood leading man.<sup><a href="#fn1" id="ref1">1</a></sup>
+The noted European politics commentator Niccolo Soldo recently [shared a real gem of a forum post](https://twitter.com/espressosoldo/status/1262182978656129024) - pictured below - that provides a spirited defense on the unassailability of Tom Cruise’s status as this era's preeminent Hollywood leading man.<sup><a href="#fn1" id="ref1">1</a></sup>
 
 [![foo](https://github.com/danielrdowns/website/blob/gh-pages/assets/images/tweet2.png?raw=true)](https://github.com/danielrdowns/website/blob/gh-pages/assets/images/tweet2.png?raw=true)
 
